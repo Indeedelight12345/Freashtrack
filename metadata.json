@@ -1,0 +1,5 @@
+{
+  "name": "FreshTrack",
+  "description": "A zero-waste food tracker to help reduce food waste by monitoring expiration dates.",
+  "requestFramePermissions": []
+}
